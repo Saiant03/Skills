@@ -34,6 +34,11 @@ full, authoritative per-skill list):
 - [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) — memory, planning, workflow skills
 - [`rebelytics/one-skill-to-rule-them-all`](https://github.com/rebelytics/one-skill-to-rule-them-all) — task-observer
 - [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail) — minimal-code / lazy-senior-dev
+- [`nextlevelbuilder/ui-ux-pro-max-skill`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — UI/UX design intelligence (styles, palettes, fonts, UX rules)
 
-> Not installed (no skills found in the repo): `VoltAgent/awesome-design-md`,
-> `headroomlabs-ai/headroom`.
+## Reference skills (added manually, not via the CLI)
+
+These repos ship no `SKILL.md`, so they're wrapped as reference skills:
+
+- **`awesome-design-md`** — 74 brands' design tokens (colors/type/motion), bundled from [`VoltAgent/awesome-design-md`](https://github.com/VoltAgent/awesome-design-md) under `design-md/`.
+- **`headroom`** — reference + install notes for [`headroomlabs-ai/headroom`](https://github.com/headroomlabs-ai/headroom), a local context-compression tool for AI agents (the tool itself is installed separately, not vendored here).
