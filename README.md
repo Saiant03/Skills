@@ -21,11 +21,19 @@ This writes the skill into `.agents/skills/`, symlinks it into `.claude/skills/`
 for Claude Code, and records the source in `skills-lock.json`. Commit and push
 so it persists.
 
-## Currently installed
+## Source repos
 
-From [`emilkowalski/skills`](https://github.com/emilkowalski/skills) — design &
-animation skills by Emil Kowalski:
-`animate`, `animate-expo`, `animation-vocabulary`, `apple-design`, `ask-sonner`,
-`emil-design-eng`, `find-animation-opportunities`, `improve-animations`,
-`mobile-native`, `pick-ui-library`, `prototype`, `review-animations`,
-`write-swift`.
+Skills currently installed come from these repos (see `skills-lock.json` for the
+full, authoritative per-skill list):
+
+- [`emilkowalski/skills`](https://github.com/emilkowalski/skills) — design & animation
+- [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable) — frontend design/polish
+- [`Leonxlnx/taste-skill`](https://github.com/Leonxlnx/taste-skill) — design taste, image-to-code, brandkit
+- [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) — Playwright CLI + dev
+- [`img2threejs/img2threejs`](https://github.com/img2threejs/img2threejs) — image → three.js
+- [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) — memory, planning, workflow skills
+- [`rebelytics/one-skill-to-rule-them-all`](https://github.com/rebelytics/one-skill-to-rule-them-all) — task-observer
+- [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail) — minimal-code / lazy-senior-dev
+
+> Not installed (no skills found in the repo): `VoltAgent/awesome-design-md`,
+> `headroomlabs-ai/headroom`.
