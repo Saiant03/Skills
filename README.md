@@ -35,6 +35,8 @@ full, authoritative per-skill list):
 - [`rebelytics/one-skill-to-rule-them-all`](https://github.com/rebelytics/one-skill-to-rule-them-all) — task-observer
 - [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail) — minimal-code / lazy-senior-dev
 - [`nextlevelbuilder/ui-ux-pro-max-skill`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — UI/UX design intelligence (styles, palettes, fonts, UX rules)
+- [`anthropics/skills`](https://github.com/anthropics/skills) — `frontend-design` (distinctive visual direction, avoids templated defaults)
+- [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) — `web-design-guidelines` (UI audit against Vercel's Web Interface Guidelines: accessibility, focus, forms, performance)
 
 ## Reference skills (added manually, not via the CLI)
 
